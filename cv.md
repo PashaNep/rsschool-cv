@@ -14,9 +14,8 @@ _STRONG SIDES :_
 * self-disciplined
 ---
 ## Experience:
-* completed a course on HTML and CSS Basics on [udemy.com](https://www.udemy.com/)
-* [1 mini-project](https://github.com/PashaNep/figma) in GitHub
----
+*Actually i don`t have any job experience, but i like so much to learn something new and as i mentioned above, __my goal is to become senior__*
+
 ## Skills:
 * Basic knowledge Git
 * Basic HTML
@@ -25,4 +24,3 @@ _STRONG SIDES :_
 * Chrome DevTools
 * VS Code
 ---
-
