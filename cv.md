@@ -44,3 +44,8 @@ Here is some part of HTML code of my mini-project
     </div>
 </div>
 ```
+## Languages
+* English (B1 - intermediate)
+* Russian (native)
+* Ukrainian (native)
+* Polish (C1 - advanced)
