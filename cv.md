@@ -24,3 +24,22 @@ _STRONG SIDES :_
 * Chrome DevTools
 * VS Code
 ---
+## Learning experience
+* completed a course on HTML and CSS Basics on [udemy.com](https://www.udemy.com/)
+* **[1 mini-project](https://github.com/PashaNep/figma) in GitHub(I used all the skills listed above):**
+
+Here is some part of HTML code of my mini-project
+```html
+<div class="phone">
+    <div class="phone-holder">
+        <div class="phone-img">
+            <img src="phone.png" alt="">
+        </div>
+        <div class="number"><a class="num" href="#">+999-888-76-54</a></div>
+    </div>
+
+    <div class="phone-text">
+        Свяжитесь с нами для <br> бронирования
+    </div>
+</div>
+```
