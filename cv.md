@@ -1,4 +1,4 @@
-![dsad](//rsschool-cv/inst.jpeg)
+![dsad](./inst.jpeg)
 # *Pavlo Nepokrytyi*
 ---
 ## Contact details:
@@ -13,6 +13,7 @@ _STRONG SIDES :_
 * young (18 years old)
 * assertive
 * self-disciplined
+
 ---
 ## Experience:
 *Actually i don`t have any job experience, but i like so much to learn something new and as i mentioned above, __my goal is to become senior__*
@@ -24,6 +25,7 @@ _STRONG SIDES :_
 * GitHub
 * Chrome DevTools
 * VS Code
+
 ---
 ## Learning experience
 * completed a course on HTML and CSS Basics on [udemy.com](https://www.udemy.com/)
