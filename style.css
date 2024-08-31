@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 2em;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10%
+}
+
+.header_title {
+    font-size: 30px;
+}
+
+.header_subtitle {
+    font-size: 20px;
+    color: rgb(69, 69, 184);
+}
+
+.main {
+    display: flex;
+}
+
+.column_left {
+    background-color: #d5d5d5;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding: 0 50px 0 70px;
+}
+
+.column_right {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 40px;
+}
+
+.contact_block {
+    display: flex;
+    align-items: center;
+    gap: 0.5em
+}
+
+.contact_image {
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    mix-blend-mode: multiply;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    margin: 50px auto;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.avatar_image {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.html_image {
+    background-image: url(./html5.png);
+    
+}
+
+.css_image {
+    background-image: url(./css3.png);
+}
+
+.js_image {
+    background-image: url(./js.png);
+}
+
+.git_image {
+    background-image: url(./git.png);
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    transition: color 1s;
+}
+
+.link:hover {
+    color: rgb(53, 53, 216);
+}
+
+.contact_title {
+    padding-bottom: 30px;
+}
+
+.skills_title {
+    padding: 30px 0;
+}
+
+.skills_block {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.language_section {
+    padding-bottom: 30px;
+}
+
+.language_title {
+    padding: 30px 0;
+}
+
+.about_section {
+    width: 80%;
+    padding-bottom: 50px;
+}
