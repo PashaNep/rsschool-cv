@@ -1,10 +1,10 @@
 # Nepokrytyi Pavlo
 
 ## Contacnts
--**Location:** Krakow, Poland
--**Phone:** +48575468405
--**Email:** pavelnepok@gmail.com
--**GitHub:** [PashaNep](https://github.com/PashaNep)
+- **Location:** Krakow, Poland
+- **Phone:** +48575468405
+- **Email:** pavelnepok@gmail.com
+- **GitHub:** [PashaNep](https://github.com/PashaNep)
 
 ## About me
 I'm a first-year student of AFM university in Krakow. I'm a responsible person, fast-learning and have willing to develop my skills. I'd like to develop team working, code viewing and other stuff.
